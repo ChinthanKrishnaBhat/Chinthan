@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h1{
+    border-style: dashed;
+    color:aquamarine;
+}
+img{
+    border: 1px;
+    border-style: double;
+}
+a{
+    color: black;
+}
