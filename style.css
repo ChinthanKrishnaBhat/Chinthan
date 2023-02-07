@@ -9,6 +9,12 @@ img{
     border: 1px;
     border-style: double;
 }
-a{
+a:hover{
     color: black;
+}
+a:link{
+    color:blueviolet;
+}
+html{
+    scroll-behavior: smooth;
 }
